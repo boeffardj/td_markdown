@@ -1,7 +1,7 @@
 # td_markdown
 
 # Bienvenue chez Kercode !
- ![image_kercode](images\kercode.jpg)
+ ![image_kercode](..\kercode.jpg)
 ## Introduction
 
 Ceci est un petit texte d'introduction. On passe à la ligne suivante (sans sauter une ligne) en terminant celle-ci
