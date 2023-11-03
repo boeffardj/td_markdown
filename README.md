@@ -25,6 +25,7 @@ points dans la prolongation de ce qui a été vu en cours
 #### Cet exercice a pour objectif de reproduire le plus fidèlement possible ce texte avec : 
 <html>
 <img align="right" src="markdown.png")>
+ 
 * la gestion de la différence entre le retour à la ligne et le démarrage!
 d'un nouveau paragraphe (avec saut d'une ligne vide),
 
