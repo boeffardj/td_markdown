@@ -6,6 +6,7 @@
 
 Ceci est un petit texte d'introduction. On passe à la ligne suivante (sans sauter une ligne) en terminant celle-ci
 par 2 espaces avant de frapper la touche "entrer".
+
 Pour démarrer un nouveau paragraphe , il faut faire 2 "retour chariot" (2 fois "entrer")
 
 Ici commence donc le nouveau paragraphe.
